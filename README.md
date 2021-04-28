@@ -1,20 +1,18 @@
 <img src="https://github.com/fcantor/Moove/blob/master/web_dynamic/static/styles/images/cow-logo.png" width="160" height=auto />
 
-# Moove: Holberton School End of Year Project
+# Moove (Working on updating technologies)
 
 ## Description
 The Project is a travel web application. It pulls data from the Google and Kayak APIs to give the user the cheapest option for a given trip across car, public transit, rental, and flight options.
 
 ## Table of Contents
-* [Moove: Holberton School End of Year Project](#moove-holberton-school-end-of-year-project)
+* [Moove](#moove-wokring-on-updating technologies)
 	* [Description](#description)
 	* [Installation](#installation)
 	* [Environment](#environment)
 	* [Usage](#usage)
-	* [Contributing](#contributing)
-	* [Authors](#authors)
+	* [Coming Soon!](#coming-soon)
 	* [License](#license)
-	* [Mentors](#mentors)
 
 ## Installation
 The environment the app was built in is outlined in the section below. Ensure all dependencies are installed in order to run the app smoothly. Setup scripts are currently in development and will be released soon, but for now please just update or install what you need to on your own!
@@ -34,16 +32,10 @@ The environment the app was built in is outlined in the section below. Ensure al
 
 
 ## Usage
-The currently running version of the app is hosted at [Moo-ve.me](https://moo-ve.me/). Input your origin and destination to find the cheapest available travel options for your trip!
+This project is no longer live. I have decided to take do some remodeling of the style and updating to new technologies. Keep watching to stay updated. But, please feel free to fork and download this application to see how it works.
 
-## Contributing
-We welcome bug fixes or other improvements. Fork the repo and make a pull request if you've been kind enough to do some work on it, and Cheska, CeCe, or Essence will review and merge if it works out. Please use the styling guides we've outlined, they make things nice and easy for anyone trying to read the code after you've written it.
-
-## Authors
-Ca'Nese Curvin [Github](https://github.com/canesecurvin)|[Twitter](https://twitter.com/cscurvin1)|[LinkedIn](https://www.linkedin.com/in/ccurvin/)
-
-## Mentors
-Elaine Yeung [Github](https://github.com/egsy)|[Twitter](https://twitter.com/egsy)|[LinkedIn](https://www.linkedin.com/in/yeungegs/)
+## Coming Soon
+In this section I will be adding photos of the new design for the website. All designs will be by me as I work on stregnthening my ui/ux skills.
 
 ## License
 GNU GENERAL PUBLIC LICENSE
