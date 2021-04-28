@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+        <script src="http://code.jquery.com/ui/1.11.0/jquery-ui.js"></script>
+        <script src="static/scripts/results.js?1600"></script>
+        <meta charset="utf-8">
+        <title>Moove</title>
+
+        <link rel="stylesheet" href="../static/styles/index.css">
+        <link rel="stylesheet" href="../static/styles/indexmobile.css">
+        <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+    </head>
+    <body>
+        <header><div class="cow"><p>.</p></div></header>
+        <div class="main1">
+            <div class="booktrip">
+                <form class="origin" action="index.html" method="post">
+                    <!--label for="originplace">Enter Current Location:</label-->
+                    <input type="text" name="originplace" id="originplace"
+                    placeholder="Current location" required>
+                    <!--label for="destination">Enter Desired Location:</label-->
+                    <input type="text" name="destination" id="destination"
+                    placeholder="Desired Location" required>
+                    <!--label for="startdate">Select Departure Date:</label-->
+                    <input type="date" id="startdate" name="startdate" required>
+                </form>
+                <!--this is the dropbox to select a cabin-->
+                <!--div class="cabindrop">
+                    <p>Select Cabin<i class="fas fa-angle-down"></i></p>
+                    <div class="cabins">
+                        <ul>
+                            <li class="econ">Economy</li>
+                            <li class="bus">Business</li>
+                            <li class="first">First Class</li>
+                        </ul>
+                    </div>
+                </div-->
+                <button type="submit" name="Search" id="searchButton">Search</button>
+            </div>
+        </div>
+        <div class="main2">
+            <div class="logo"></div>
+            <div class="aside">
+                <div class="about">
+                    <h2 class="aboutheading">All of your options. All in one place!</h2>
+                    <p>Moove is a unique travel web application that allows users
+                         to view their travel options all in one place. Before
+                         Moove, if you wanted a comprehensive comparison of all
+                         of your means of transportation, you’d have to look at
+                         many different websites to get the best deal -- not
+                         anymore! We allow users to enter their departure location,
+                          destination and date of departure. We then return the
+                          cheapest option for each mode of transportation,
+                          complete with dates, times, travel company names, and
+                          even how much gas you’ll use on your trip!<p>
+                </div>
+                <h2 class="viewplaces">Check out these cities!</h2>
+                <div class="places">
+                    <div class="vegas">
+                        <a href="https://www.lasvegasnevada.gov/"></a>
+                        <p>Las Vegas, Nevada</p>
+                    </div>
+                    <div class="portland">
+                        <a href="https://www.portlandoregon.gov/"></a>
+                        <p>Portland, Oregon</p>
+                    </div>
+                    <div class="sandiego">
+                        <a href="https://www.sandiego.gov/"></a>
+                        <p>San Diego, California</p>
+                    </div>
+                </div>
+            </div>
+            <footer>
+                <a href="https://github.com/fcantor/Moove">Created by Team Moove</a>
+            </footer>
+        </div>
+    </body>
+</html>
