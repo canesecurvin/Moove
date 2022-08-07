@@ -34,6 +34,11 @@ The environment the app was built in is outlined in the section below. Ensure al
 ## Usage
 This project is no longer live. I have decided to take do some remodeling of the style and updating to new technologies. Keep watching to stay updated. But, please feel free to fork and download this application to see how it works.
 
+## Screenshots (Version 1)
+<img src="web_dynamic/static/styles/images/Screen Shot 2022-08-07 at 10.59.45 AM.png /">
+<img src="web_dynamic/static/styles/images/Screen Shot 2022-08-07 at 11.00.03 AM.png">
+
+
 ## Coming Soon
 In this section I will be adding photos of the new design for the website. All designs will be by me as I work on stregnthening my ui/ux skills.
 
